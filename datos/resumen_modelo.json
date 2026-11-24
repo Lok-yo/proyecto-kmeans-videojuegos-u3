@@ -1,0 +1,56 @@
+{
+  "registros_iniciales": 27075,
+  "nulos_imputados": 15,
+  "duplicados_eliminados": 0,
+  "sin_horas_o_resenas": 21051,
+  "atipicos_eliminados": 160,
+  "registros_limpios": 5864,
+  "k_optimo": 4,
+  "inercia_k4": 6307.99,
+  "silhouette_k4": 0.39,
+  "iteraciones_k4": 9,
+  "inercia_k3": 8285.98,
+  "silhouette_k3": 0.387,
+  "conteo_clusters": {
+    "Económicos de Baja Aceptación": 1607,
+    "Económicos Bien Valorados": 3091,
+    "Gama Alta / Premium": 839,
+    "Éxitos de Alta Retención": 327
+  },
+  "porcentaje_clusters": {
+    "Económicos de Baja Aceptación": 27.4,
+    "Económicos Bien Valorados": 52.71,
+    "Gama Alta / Premium": 14.31,
+    "Éxitos de Alta Retención": 5.58
+  },
+  "medias_grupo": {
+    "Económicos de Baja Aceptación": {
+      "price": 3.33,
+      "calificacion_pct": 50.9,
+      "horas_promedio": 3.15,
+      "positive_ratings": 383.94,
+      "propietarios_est": 209828.87
+    },
+    "Económicos Bien Valorados": {
+      "price": 4.97,
+      "calificacion_pct": 83.41,
+      "horas_promedio": 3.77,
+      "positive_ratings": 2106.5,
+      "propietarios_est": 409260.76
+    },
+    "Gama Alta / Premium": {
+      "price": 20.58,
+      "calificacion_pct": 81.25,
+      "horas_promedio": 6.84,
+      "positive_ratings": 4782.34,
+      "propietarios_est": 544809.3
+    },
+    "Éxitos de Alta Retención": {
+      "price": 16.2,
+      "calificacion_pct": 79.46,
+      "horas_promedio": 33.52,
+      "positive_ratings": 15175.54,
+      "propietarios_est": 1485535.17
+    }
+  }
+}
